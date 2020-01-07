@@ -6,11 +6,10 @@
     text-transform: uppercase;
     border-radius: 5px;
     
-    @media #{brk-narrow} {
-        padding: 10px 30px;
-    }
 
-  
+    @media #{brk-narrow} {
+        padding: 0px 30px;
+    }
   }
   
   .default {
